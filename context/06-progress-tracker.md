@@ -4,15 +4,16 @@ Update this file whenever the current phase, active feature, or implementation s
 
 ## Current Phase
 
-- Feature 01: Design System — complete
+- Feature 02: Editor Chrome — complete
 
 ## Current Goal
 
-- Feature 02: Editor Chrome (navbar, layout shell)
+- Feature 03: Auth
 
 ## Completed
 
 - Feature 01: Design System — shadcn/ui installed, Button/Card/Dialog/Input/Tabs/Textarea/ScrollArea added, lucide-react installed, lib/utils.ts with cn() created, globals.css updated with dark-only theme tokens.
+- Feature 02: Editor Chrome — EditorNavbar (fixed top bar, sidebar toggle with PanelLeftOpen/PanelLeftClose, left/center/right sections) and ProjectSidebar (floating overlay, slide-in from left, isOpen prop, Projects header + close button, My Projects / Shared tabs with empty states, full-width New Project button) created in components/editor/.
 
 ## In Progress
 
@@ -20,7 +21,7 @@ Update this file whenever the current phase, active feature, or implementation s
 
 ## Next Up
 
-- Feature 02: Editor Chrome
+- Feature 03: Auth
 
 ## Open Questions
 
